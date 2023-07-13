@@ -124,7 +124,7 @@ PS：如果是手机充值，跳转淘宝软件后返回界面没有粘贴卡密
 
 ## 🍥 AI导航站
 
-[https://navigation.deephour.com](深度AI导航网站)
+https://navigation.deephour.com
 
 导航站收录了包括本网站在内的百余AI资源，工具，学习网站，方便您的日常工作学习使用，网站有免费有付费请您仔细辨别。
 
