@@ -82,9 +82,9 @@ icon: note
 
 **图片保存**
 
-midjourney画的图可以再网页上直接保存
+midjourney画的图可以在网页上直接保存
 
-**midhourney 提示词书写助手的使用**
+**midjourney 提示词书写助手的使用**
 
 对于熟悉midjourney的用户，同样为您提供了一些常用的midjourney绘图命令，可以通过点选的形式方便的输入
 
