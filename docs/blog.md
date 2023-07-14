@@ -1,11 +1,11 @@
 ---
-#博客首页设置：https://theme-hope.vuejs.press/zh/guide/blog/home.html
+#博客首页设置：https://finley1991.github.io/blog.html
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: 暮云
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: 暮云
 tagline: 盛年不重来，一日难再晨
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false

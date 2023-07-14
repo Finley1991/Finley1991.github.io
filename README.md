@@ -26,15 +26,15 @@ icon: note
 
 1. 登录界面，点击一键登录
 
-   ![登录](./docs/blog/登录1.png)
+   ![登录](./docs/local_image/登录1.png)
 
 2. 首次登录必须选择微信扫码，扫码成功后才能够进行邮箱和登录密码设置，下次登陆即可使用邮箱和密码登录页面。
 
-   ![微信扫码登录](./docs/blog/登录2.png)
+   ![微信扫码登录](./docs/local_image/登录2.png)
 
    
 
-![账户密码更新](./docs/blog/登录3.png)
+![账户密码更新](./docs/local_image/登录3.png)
 
 
 
@@ -48,15 +48,15 @@ icon: note
 
 选择模型为GPT-3.5，如果不选择则默认为此选项。
 
-![](./docs/blog/GPT1.png)
+![](./docs/local_image/GPT1.png)
 
 直接在输入框输入文字即可开始对话，每次对话消耗一次。连续问答（用户输入+GPT回答）字数最大支持3000字左右，太长可能会出错
 
 **ChatGPT 快速角色扮演**
 
-![](./docs/blog/GPT3.png)
+![](./docs/local_image/GPT3.png)
 
-![](./docs/blog/GPT4.png)
+![](./docs/local_image/GPT4.png)
 
 其他角色欢迎尝试~
 
@@ -64,17 +64,17 @@ icon: note
 
 支持中英文，本质上输入中文会调用百度翻译api，转化成英文，如果有能力还是自己写英文效果最好。
 
-![](./docs/blog/mj1.png)
+![](./docs/local_image/mj1.png)
 
 如下图：输入中文 画一个可爱的小姑娘，油画风格，midjoury画图速度比较慢需要您耐心等待，但是效果很好。
 
-![](./docs/blog/mj2.png)
+![](./docs/local_image/mj2.png)
 
 这里介绍一下U，V画图指令
 
 **U功能**：选取四张图片中的一张进行无损放大
 
-![](./docs/blog/mj3.png)
+![](./docs/local_image/mj3.png)
 
 
 
@@ -90,13 +90,13 @@ midjourney画的图可以在网页上直接保存
 
 对于熟悉midjourney的用户，同样为您提供了一些常用的midjourney绘图命令，可以通过点选的形式方便的输入
 
-![](./docs/blog/mj7.png)
+![](./docs/local_image/mj7.png)
 
-![](./docs/blog/mj8.png)
+![](./docs/local_image/mj8.png)
 
 通过点击标签选中想要的画图指令。
 
-![](./docs/blog/mj9.png)
+![](./docs/local_image/mj9.png)
 
 点击复制，将文本复制，粘贴输入框，注意此时应尽量使用英文提示词。
 
@@ -104,19 +104,19 @@ midjourney画的图可以在网页上直接保存
 
 1. 网站注册即送100次问答，有效期30天。用完以后可以**购买充值卡密码**进行充值。
 
-![](./docs/blog/充值1.png)
+![](./docs/local_image/充值1.png)
 
 2. 如果次数用完，可以按照以下步骤充值
 
-![](./docs/blog/充值2.png)
+![](./docs/local_image/充值2.png)
 
-![](https://media.discordapp.net/attachments/1128909742555807827/1128919406580355193/3.png?width=528&height=468)
+![](./docs/local_image/充值3.png)
 
 
 
-![](./docs/blog/充值4.png)
+![](./docs/local_image/充值4.png)
 
-![](./docs/blog/充值5.png)
+![](./docs/local_image/充值5.png)
 
 PS：如果是手机充值，跳转淘宝软件后返回界面没有粘贴卡密的界面，请重复上述操作，在跳转购买时候不作任何选择，直接返回就可以看到粘贴卡密的界面。
 
