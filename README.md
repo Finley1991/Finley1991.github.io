@@ -70,35 +70,11 @@ icon: note
 
 ![](./docs/local_image/mj2.png)
 
-这里介绍一下U，V画图指令
-
-**U功能**：选取四张图片中的一张进行无损放大
-
-![](./docs/local_image/mj3.png)
-
-
-
-**V功能**：选取四张照片中的一张，进行细节调整
-
-操作同U功能一致
+![](./docs/local_image/mj22.png)
 
 **图片保存**
 
 midjourney画的图可以在网页上直接保存
-
-**midjourney 提示词书写助手的使用**
-
-对于熟悉midjourney的用户，同样为您提供了一些常用的midjourney绘图命令，可以通过点选的形式方便的输入
-
-![](./docs/local_image/mj7.png)
-
-![](./docs/local_image/mj8.png)
-
-通过点击标签选中想要的画图指令。
-
-![](./docs/local_image/mj9.png)
-
-点击复制，将文本复制，粘贴输入框，注意此时应尽量使用英文提示词。
 
 ### 四、充值
 
@@ -108,7 +84,7 @@ midjourney画的图可以在网页上直接保存
 
 2. 如果次数用完，可以按照以下步骤充值
 
-![](./docs/local_image/充值2.png)
+
 
 ![](./docs/local_image/充值3.png)
 
@@ -117,8 +93,6 @@ midjourney画的图可以在网页上直接保存
 ![](./docs/local_image/充值4.png)
 
 ![](./docs/local_image/充值5.png)
-
-PS：如果是手机充值，跳转淘宝软件后返回界面没有粘贴卡密的界面，请重复上述操作，在跳转购买时候不作任何选择，直接返回就可以看到粘贴卡密的界面。
 
 
 
